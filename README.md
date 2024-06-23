@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vt_andrade15)
 
-[![Andrade GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=VitorAndrade18&show_icons=true&theme=dark#gh-dark-mode-only)]()
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAndrade18&show_icons=true&theme=radical)
 
 ### Tecnologias que gosto de usar 
 
