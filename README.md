@@ -1,6 +1,7 @@
 ### Olá, me chamo Vitor Andrade 🙋‍♂️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vt_andrade15)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAndrade18&show_icons=true&theme=tokyonight)
 
